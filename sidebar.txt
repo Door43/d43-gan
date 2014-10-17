@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[gan:home|Door43 (gan)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-gan|d43-gan repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-gan/archive/master.zip|d43-gan.zip]]
+
+**Recent Changes**
+{{changes>ns = gan}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/gan|Ethnologue data]]
+
